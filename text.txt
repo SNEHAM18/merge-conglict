@@ -1,1 +1,2 @@
-city-->bengaluru
+<<<<<< branch2
+city-->america
